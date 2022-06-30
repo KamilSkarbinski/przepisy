@@ -1,0 +1,78 @@
+
+ul.lista1{
+    width: 100%; 
+    margin-left: 550px;
+    list-style: none;
+}
+li #list1 {
+    float: left;
+    text-align: center;
+    font-size: 1.2em;
+    width: 130px;
+    text-decoration: none;
+    color:rgb(53, 114, 184);
+    background-color: #1B1F33;
+    padding: 10px 15px;
+    margin: 0px 100px 1px 0px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 8px 8px 11px #27477e;
+    -moz-box-shadow: 0px 2px 3px rgb(116, 33, 77);
+    -webkit-box-shadow: 0px 2px 3px rgb(116, 33, 77);
+}
+
+.sekcja1 {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+    
+  }
+
+h2{
+    color: rgb(88, 88, 88);
+    font-family: "Barlow Semi Condensed",sans-serif;
+}
+
+#przepis{
+    height: 700px;
+    width: 450px;
+    border: 1px solid #7BA9FA;
+    padding: 20px 0px 0px 30px;
+    margin-bottom: -700px;
+    margin-left: 50px;
+    margin-top: 35px;
+    background-color: #A7BAFA;
+    box-shadow: 8px 8px 11px #27477e;
+}
+
+#skladnik{
+    height: 200px;
+    width: 450px;
+    border: 1px solid #7BA9FA;
+    padding: 20px 0px 0px 30px;
+    margin-left: 650px;
+    margin-top: 100px;
+    background-color: #A7BAFA;
+    box-shadow: 8px 8px 11px #27477e;
+}
+
+#kategoria{
+    height: 200px;
+    width: 450px;
+    border: 1px solid #7BA9FA;
+    padding: 20px 0px 0px 30px;
+    margin-left: 650px;
+    margin-top: 50px;
+    background-color: #A7BAFA;
+    box-shadow: 8px 8px 11px #27477e;
+}
+#uklad{
+    margin-top: 100px;
+    margin-left: 370px;
+    height: 800px;
+    width: 1200px;
+    border: solid white;
+    box-shadow: 8px 8px 11px #27477e;
+}
